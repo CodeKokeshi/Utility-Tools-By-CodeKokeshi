@@ -1,14 +1,11 @@
 package utility.tools.bycodekokeshi;
 
-import javafx.application.Platform;
-import javafx.fxml.FXML;
-import javafx.scene.control.Button;
-import javafx.scene.control.Label;
-import javafx.scene.control.TextField;
-import javafx.scene.input.Clipboard;
-import javafx.scene.input.ClipboardContent;
+import javafx.application.*;
+import javafx.fxml.*;
+import javafx.scene.control.*;
+import javafx.scene.input.*;
 
-import java.util.Random;
+import java.util.*;
 
 public class _03_PasswordGenerator {
 
