@@ -1,18 +1,11 @@
 package utility.tools.bycodekokeshi;
 
-import javafx.fxml.FXML;
-import javafx.fxml.Initializable;
+import javafx.fxml.*;
 import javafx.scene.control.*;
-import javafx.scene.input.Clipboard;
-import javafx.scene.input.ClipboardContent;
+import javafx.scene.input.*;
 
-import java.net.URL;
-import java.util.Arrays;
-import java.util.LinkedHashSet;
-import java.util.ResourceBundle;
-import java.util.Set;
-
-
+import java.net.*;
+import java.util.*;
 
 public class _07_JavaArrayGenerator implements Initializable {
 
