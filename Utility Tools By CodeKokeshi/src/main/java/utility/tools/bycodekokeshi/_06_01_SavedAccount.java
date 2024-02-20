@@ -1,20 +1,13 @@
 package utility.tools.bycodekokeshi;
 
-import javafx.collections.FXCollections;
-import javafx.collections.ObservableList;
-import javafx.fxml.FXML;
-import javafx.fxml.Initializable;
-import javafx.scene.control.TableColumn;
-import javafx.scene.control.TableView;
+import javafx.collections.*;
+import javafx.fxml.*;
+import javafx.scene.control.*;
 
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
+import java.io.*;
 import java.net.URL;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.Properties;
-import java.util.ResourceBundle;
+import java.nio.file.*;
+import java.util.*;
 
 public class _06_01_SavedAccount implements Initializable {
     @Override
