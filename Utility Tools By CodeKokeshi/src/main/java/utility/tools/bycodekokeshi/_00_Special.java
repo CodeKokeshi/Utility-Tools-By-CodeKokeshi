@@ -1,10 +1,10 @@
 package utility.tools.bycodekokeshi;
 
-import javafx.application.Application;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Scene;
+import javafx.application.*;
+import javafx.fxml.*;
+import javafx.scene.*;
 import javafx.scene.image.Image;
-import javafx.stage.Stage;
+import javafx.stage.*;
 
 import java.util.Objects;
 
