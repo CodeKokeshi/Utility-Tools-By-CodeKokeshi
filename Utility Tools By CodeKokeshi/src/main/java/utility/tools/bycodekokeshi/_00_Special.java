@@ -6,7 +6,7 @@ import javafx.scene.*;
 import javafx.scene.image.Image;
 import javafx.stage.*;
 
-import java.util.Objects;
+import java.util.*;
 
 public class _00_Special extends Application {
     @Override
