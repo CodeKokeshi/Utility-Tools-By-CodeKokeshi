@@ -62,13 +62,13 @@
 ---
 **Having a hard time using Windows Explorer search engine? Is it not accurate? This tool will definitely solve your problem. I used this to filter out Duplicate ROMs from ROM packs I had downloaded.**
 ---
-**Before Including Subfolders.**
----
 ![File Deletion Tool 1](https://github.com/CodeKokeshi/Utility-Tools-By-CodeKokeshi/assets/112242924/ee7c2c23-6e6f-4785-a72d-b84ef862ed38)
 ---
-**After Including Subfolders**
+**Before Including Subfolders.**
 ---
 ![File Deletion Tool 2](https://github.com/CodeKokeshi/Utility-Tools-By-CodeKokeshi/assets/112242924/be86bab2-be37-401b-9313-bfddf07b006f)
+---
+**After Including Subfolders**
 ---
 ![File Deletion Tool 3](https://github.com/CodeKokeshi/Utility-Tools-By-CodeKokeshi/assets/112242924/dcdc2dcd-2c05-444c-af9f-189a8ef5b42a)
 ---
