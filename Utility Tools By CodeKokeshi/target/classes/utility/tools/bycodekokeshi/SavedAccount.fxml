@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="443.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="utility.tools.bycodekokeshi._06_01_SavedAccount">
+   <children>
+      <TableView fx:id="AccountTable" layoutX="14.0" layoutY="14.0" prefHeight="377.0" prefWidth="576.0">
+        <columns>
+          <TableColumn fx:id="PlatformCol" editable="false" prefWidth="140.800048828125" sortable="false" text="Platform" />
+          <TableColumn fx:id="UsernameCol" editable="false" prefWidth="237.5999755859375" sortable="false" text="Username" />
+            <TableColumn fx:id="PasswordCol" minWidth="4.800048828125" prefWidth="197.5999755859375" sortable="false" text="Password" />
+        </columns>
+      </TableView>
+      <Button layoutX="276.0" layoutY="403.0" mnemonicParsing="false" onAction="#Delete" text="Delete">
+         <font>
+            <Font name="Arial" size="12.0" />
+         </font></Button>
+   </children>
+</AnchorPane>
