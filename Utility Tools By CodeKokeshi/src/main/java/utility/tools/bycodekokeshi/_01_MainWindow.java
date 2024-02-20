@@ -3,7 +3,10 @@ package utility.tools.bycodekokeshi;
 import javafx.application.*;
 import javafx.fxml.*;
 import javafx.scene.*;
+import javafx.scene.control.*;
+import javafx.scene.image.*;
 import javafx.stage.*;
+
 import java.io.*;
 import java.net.*;
 import java.util.*;
